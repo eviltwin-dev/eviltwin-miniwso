@@ -6,7 +6,7 @@
 ## Little information
  
  <p align="center">
- <img width="50%" src="images/20200418_014024.jpg"/>
+ <img width="50%" src="images/20200709_170253.jpg"/>
  </p><br>
  
 This shell from wso v2.5 we not recode except for login we change login page to blank page cause for secure your shell , if you need now a fiture you can check on google or run live this shell
@@ -17,7 +17,7 @@ This shell from wso v2.5 we not recode except for login we change login page to 
 - You can use the latest shell without having to download it again , example we update v2.0 you can use live if your shell actived (why ? is secret)
 - Incognito Login Page with blank page
 <p align="center">
-<img width="50%" src="images/20200418_014046.jpg"/>
+<img width="50%" src="images/20200709_170137.jpg"/>
 </p>
 
 ## Note
